@@ -29,6 +29,8 @@ yarn
 yarn start
 ```
 
+## Outros repositórios
+
 > [Front end](https://github.com/waliqueiroz/proffy-web)
 >
 > [Aplicativo](https://github.com/waliqueiroz/proffy-mobile)
